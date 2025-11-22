@@ -1,1 +1,1 @@
-# ML_for_Smile
+# Project 2: ML for Slime!
